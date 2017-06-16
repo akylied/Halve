@@ -23,7 +23,7 @@ My intention as a yoga teacher is to create an experience that creates a safe sp
 
 and 
 
-frequent subbing at [YogaBhoga](https://www.yogabhoga.com/?gclid=CNqxuO3OwdQCFQxqfgodmCgEnA) 
+frequently subbing at [YogaBhoga](https://www.yogabhoga.com/?gclid=CNqxuO3OwdQCFQxqfgodmCgEnA) 
 
 
 
