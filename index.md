@@ -8,11 +8,7 @@
 
 
 
-4:30 on Thursdsay at [Vibrant Studio](http://www.vibrantstudiospdx.com/) 
-
-&&
-
-frequently subbing at [YogaBhoga](https://www.yogabhoga.com/?gclid=CNqxuO3OwdQCFQxqfgodmCgEnA) 
+4:30 on Thursdsay at [Vibrant Studio](http://www.vibrantstudiospdx.com/) && frequently subbing at [YogaBhoga](https://www.yogabhoga.com/?gclid=CNqxuO3OwdQCFQxqfgodmCgEnA) 
 
 
 
