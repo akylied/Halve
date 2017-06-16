@@ -1,10 +1,10 @@
 # Site
-title: Halve
-description: Stylish, Two-Column Jekyll Theme
+title: 
+description:
 url: https://akylied.github.io/Halve
 baseurl: '/Halve/'
 
-logo: logo.png                                    # Site logo
+logo: logowhite.png                                    # Site logo
 locale: en_US
 
 # Left Block Images
