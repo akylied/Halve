@@ -1,6 +1,6 @@
 
 
-# Come say hi 
+# currently teaching in Portland,Or
 
 
 
@@ -10,7 +10,7 @@
 
 4:30 on Thursdsay at [Vibrant Studio](http://www.vibrantstudiospdx.com/) 
 
-and 
+&&
 
 frequently subbing at [YogaBhoga](https://www.yogabhoga.com/?gclid=CNqxuO3OwdQCFQxqfgodmCgEnA) 
 
