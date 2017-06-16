@@ -2,7 +2,7 @@
 title: Halve
 description: Stylish, Two-Column Jekyll Theme
 url: https://taylantatli.github.io/Halve
-base url: '/Halve/'
+baseurl: '/Halve/'
 
 logo: halve.png                                       # Site logo
 locale: en_US
