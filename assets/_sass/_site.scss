@@ -283,7 +283,7 @@ canvas {
 }
 
 .logo {
-  max-width: 150px;
+  max-width: 300px;
   display: inline-block;
   height: auto;
   background-size: 100%;
@@ -321,7 +321,7 @@ canvas {
     }
   }
   p {
-    font-size: 21px;
+    font-size: 24px;
     line-height: 30px;
     margin: 10px 0;
     padding-top: 25px;
@@ -452,7 +452,7 @@ canvas {
     left: 20px;
     position: absolute;
     img {
-      width: 50px;
+      width: 300px;
       height: auto;
     }
     &:after {
