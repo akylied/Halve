@@ -1,6 +1,6 @@
 
 
-# currently teaching in Portland,Or
+# Yoga Teacher in Portland,Or
 
 
 
