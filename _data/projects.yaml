@@ -1,6 +1,6 @@
 - title: CherryBlossum
   url: https://vimeo.com/221671868
-  image: https://raw.githubusercontent.com/TaylanTatli/Ramme/master/assets/img/screenshot-post.png
+  image: <iframe src="https://player.vimeo.com/video/221671868?autoplay=1&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   completed: true
 
 - title: Moon Jekyll Theme
