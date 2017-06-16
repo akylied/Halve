@@ -19,6 +19,8 @@ My intention as a yoga teacher is to create an experience that creates a safe sp
 
 
 
+
+
 4:30 on Thursdsay at [Vibrant Studio](http://www.vibrantstudiospdx.com/) 
 
 and 
@@ -27,3 +29,4 @@ frequently subbing at [YogaBhoga](https://www.yogabhoga.com/?gclid=CNqxuO3OwdQCF
 
 
 
+<iframe src="https://player.vimeo.com/video/221671868?autoplay=1&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
