@@ -1,8 +1,7 @@
 - title: CherryBlossum
   url: https://vimeo.com/221671868
-  video: <iframe src="https://player.vimeo.com/video/221671868" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/221671868">cherryblossum5</a> from <a href="https://vimeo.com/user67758429">Adrianne Kylie</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-  completed: false
+  image: https://raw.githubusercontent.com/TaylanTatli/Ramme/master/assets/img/screenshot-post.png
+  completed: true
 
 - title: Moon Jekyll Theme
   url: http://taylantatli.me/Moon
